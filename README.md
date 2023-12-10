@@ -4,7 +4,7 @@
 ####  <img width="20" height="20" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png" alt="external-developer-coding-kiranshastry-lineal-color-kiranshastry"/> Software Engineer & Developer, <img width="20" height="20" src="https://img.icons8.com/external-bartama-glyph-64-bartama-graphic/64/external-bachelor-miscellaneous-elements-glyph-bartama-glyph-64-bartama-graphic.png" alt="external-bachelor-miscellaneous-elements-glyph-bartama-glyph-64-bartama-graphic"/> bachelor of computer engineering
 
 ⏳ Working on many platfoms, such as **Javascript**, **Node.js**, **Nest.js**, **Vue.js** & etc. **Developing**, **Contributing**, **Creating** .
-#### <img width="20" height="20" src="https://img.icons8.com/papercut/60/rocket.png" alt="rocket"/>I'm finding all new ways.
+#### <img width="20" height="20" src="https://img.icons8.com/papercut/60/rocket.png" alt="rocket"/> I'm finding all new ways.
 _____
 
 <img src="https://github-readme-stats.vercel.app/api?username=MohamadrezaKhalvati&show_icons=true&locale=en&repo=convoychat&theme=react" height="200"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadrezaKhalvati&show_icons=true&theme=react" height="200"/>
