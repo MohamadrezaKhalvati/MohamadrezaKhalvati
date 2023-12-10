@@ -30,7 +30,7 @@ ______
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ##### <img width="30" height="30" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-software-developer-data-analytics-flaticons-flat-flat-icons.png" alt="external-software-developer-data-analytics-flaticons-flat-flat-icons"/> Software Engineer
-Web development , Backend development , frontend development , system design 
+Web development, Backend development, Frontend development, System design 
 
 ______
 
