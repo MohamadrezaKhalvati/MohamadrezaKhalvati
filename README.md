@@ -7,7 +7,7 @@
 #### <img width="20" height="20" src="https://img.icons8.com/papercut/60/rocket.png" alt="rocket"/> I'm finding all new ways.
 _____
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamadrezaKhalvati&show_icons=true&hide_rank=true&locale=en&repo=convoychat&theme=react" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohamadrezaKhalvati&show_icons=true&hide_rank=true&locale=en&repo=convoychat&theme=react" height="200"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadrezaKhalvati&hide_progress=true" height="200" />
 
 
 ______
