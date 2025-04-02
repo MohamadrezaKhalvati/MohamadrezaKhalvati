@@ -1,4 +1,4 @@
-## Hi, I'm Mohamadreza khalavti <img width="20" height="20" src="https://img.icons8.com/emoji/48/waving-hand-light-skin-tone.png" alt="waving-hand-light-skin-tone"/>
+## Hi, I'm Mohamadreza khalvati <img width="20" height="20" src="https://img.icons8.com/emoji/48/waving-hand-light-skin-tone.png" alt="waving-hand-light-skin-tone"/>
 
 
 ####  <img width="20" height="20" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png" alt="external-developer-coding-kiranshastry-lineal-color-kiranshastry"/> Software Engineer & Developer, <img width="20" height="20" src="https://img.icons8.com/external-bartama-glyph-64-bartama-graphic/64/external-bachelor-miscellaneous-elements-glyph-bartama-glyph-64-bartama-graphic.png" alt="external-bachelor-miscellaneous-elements-glyph-bartama-glyph-64-bartama-graphic"/> bachelor of computer engineering
